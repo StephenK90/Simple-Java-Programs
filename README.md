@@ -1,2 +1,2 @@
 # Simple-Java-Programs
-Simple Java Programas created for school assignments
+Simple Java Programs created for school assignments
